@@ -1,0 +1,2 @@
+E:/test/Github-Connect/android/app/.cxx/RelWithDebInfo/354n4824/x86_64/CMakeFiles/edit_cache.dir
+E:/test/Github-Connect/android/app/.cxx/RelWithDebInfo/354n4824/x86_64/CMakeFiles/rebuild_cache.dir
