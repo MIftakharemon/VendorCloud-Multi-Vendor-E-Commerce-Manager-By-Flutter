@@ -24,9 +24,6 @@ VendorCloud is a powerful, scalable, and modern multi-vendor e-commerce manageme
 |-----------|--------------|-----------|
 | ![Category](https://raw.githubusercontent.com/MIftakharemon/VendorCloud-Multi-Vendor-E-Commerce-Manager-By-Flutter/main/assets/images/png/4.jpg) | ![Profile](https://raw.githubusercontent.com/MIftakharemon/VendorCloud-Multi-Vendor-E-Commerce-Manager-By-Flutter/main/assets/images/png/5.jpg) | ![Dashboard](https://raw.githubusercontent.com/MIftakharemon/VendorCloud-Multi-Vendor-E-Commerce-Manager-By-Flutter/main/assets/images/png/6.jpg) |
 
-| Drawer & Navigation |
-|---------------------|
-| ![Drawer](https://raw.githubusercontent.com/MIftakharemon/VendorCloud-Multi-Vendor-E-Commerce-Manager-By-Flutter/main/assets/images/png/7.jpg) |
 
 ## 🚀 Getting Started
 
