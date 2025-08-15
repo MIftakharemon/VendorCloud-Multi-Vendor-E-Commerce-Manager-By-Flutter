@@ -2,7 +2,7 @@
 
 VendorCloud is a powerful, scalable, and modern multi-vendor e-commerce management system built using Flutter. It allows store owners and vendors to manage products, categories, and customer interactions efficiently from a beautiful, cross-platform mobile application.
 
-## 🌟 Features
+## 🌟  Features
 
 - 🔐 User Authentication (Register/Login)
 - 🛍️ Product Management (Create, Read, Update, Delete)
